@@ -1,0 +1,9 @@
+# Binaries
+clone-a-gnome
+pg-local-clone
+
+# Go build cache if generated locally
+.gocache/
+
+# macOS
+.DS_Store
